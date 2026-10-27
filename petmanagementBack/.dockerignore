@@ -1,0 +1,14 @@
+vendor
+node_modules
+.git
+.env
+.env.*
+!.env.example
+storage/**
+bootstrap/cache/*.php
+database/*.sqlite
+database/*.sqlite-*
+public/hot
+public/storage
+coverage
+*.log
